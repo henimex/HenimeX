@@ -11,8 +11,8 @@ Connect with me:
 [<img align="left" alt="HenimeX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HenimeX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://instagram.com/henimex/
+[instagram]:https://instagram.com/henimex/
 [website]:
-[youtube]: https://www.youtube.com/channel/UCYe-BRHa5h8qedFtR_iW-UQ
-[twitter]: https://twitter.com/jhenimex
-[linkedin]: https://www.linkedin.com/in/ferhat-oygur-71b2b5ab/?originalSubdomain=tr
+[youtube]:https://www.youtube.com/channel/UCYe-BRHa5h8qedFtR_iW-UQ
+[twitter]:https://twitter.com/jhenimex
+[linkedin]:https://www.linkedin.com/in/ferhat-oygur-71b2b5ab/?originalSubdomain=tr
