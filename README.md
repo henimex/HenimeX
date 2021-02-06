@@ -12,7 +12,7 @@ Connect with me:
 [<img align="left" alt="HenimeX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/henimex/
-[website]: 
-[youtube]: 
-[twitter]: 
-[linkedin]:
+[website]:
+[youtube]: https://www.youtube.com/channel/UCYe-BRHa5h8qedFtR_iW-UQ
+[twitter]: https://twitter.com/jhenimex
+[linkedin]: https://www.linkedin.com/in/ferhat-oygur-71b2b5ab/?originalSubdomain=tr
