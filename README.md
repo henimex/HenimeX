@@ -9,7 +9,7 @@ Connect with me:
 [<img align="left" alt="HenimeX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="HenimeX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HenimeX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HenimeX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HenimeX | Instagram" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_32x32.png?_ga=2.34110502.681485036.1612621011-846120612.1612621011" />][instagram]
 
 [instagram]:https://instagram.com/henimex/
 [website]:https://github.com/henimex
