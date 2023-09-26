@@ -1,6 +1,6 @@
 HenimeX
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atilsamancioglu&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henimex&show_icons=true&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henimex&layout=compact)
 
 Connect with me:
