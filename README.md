@@ -1,7 +1,7 @@
 HenimeX
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henimex&show_icons=true&theme=vision-friendly-dark)](https://github.com/henimex/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henimex&layout=compact)](https://github.com/henimex/github-readme-stats)
 
 Connect with me:
